@@ -23,7 +23,7 @@
 > * **旧版残留警告：** 如果你曾经游玩过，或目前仍安装着其他人发放的汉化补丁，**请务必严格遵循【情况 B】的步骤操作**，否则会导致游戏报错！
 
 ### 第一步：下载补丁
-前往本仓库右侧的 [Releases](在此处替换为你的Releases页面链接) 页面，下载与你游戏版本对应的汉化压缩包。
+前往本仓库右侧的 [Releases](https://github.com/MILK-FOR-FREE/Felvidek-SimplifiedChinese-localization./releases) 页面，下载与你游戏版本对应的汉化压缩包。
 
 ---
 

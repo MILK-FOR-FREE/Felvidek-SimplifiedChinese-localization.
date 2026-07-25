@@ -1,4 +1,4 @@
-# Felvidek 简体中文本地化补丁/精翻深度文化历史考据版汉化
+# Felvidek 简体中文本地化补丁/精翻深度考据版汉化
 
 > **重要提醒 / IMPORTANT NOTICE**
 > 
